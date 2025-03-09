@@ -1,2 +1,2 @@
 # CNS-
- message-encryption code
+ message-authentication code
